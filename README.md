@@ -1,1 +1,1 @@
-# polygon-farm-contracts
+# Base contracts for Meso Farms in Polygon
